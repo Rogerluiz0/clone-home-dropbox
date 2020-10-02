@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2 align="center">Mobile</h2>
-  <img src=".github/screenshot-mobile.svg" alt="Exemplo da interface no mobile" height="">
+  <img src=".github/screenshot-mobile.svg" alt="Exemplo da interface no mobile" height="200px">
 </div>
 
 ## :gear: Requisítos
