@@ -7,7 +7,12 @@
 <h1 align="center">:camera_flash: Screenshot</h1>
 
 <div align="center">
-  <img src=".github/screenshot.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
+  <img src=".github/screenshot-desk.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
+</div>
+
+<div align="center">
+  <h2 align="center">Mobile</h2>
+  <img src=".github/screenshot-mobile.svg" alt="Exemplo da interface no mobile" height="">
 </div>
 
 ## :gear: Requisítos
@@ -28,16 +33,15 @@ Clone da interface da homepage do dropbox para fins acadêmicos.
 
 ## :bookmark: Layout
 
-Você pode visualizar o layout clicando [aqui]()
+Você pode visualizar o layout clicando [aqui](https://roger-clone-home-dropbox.netlify.app/)
 
 ## :bookmark_tabs: Ideias de implementação
 
-- [ ] Responsividade para mobile.
 - [ ] Refatoração.
 
 ## :arrow_down: Instalação
 
-- `git clone `;
+- `git clone https://github.com/Rogerluiz0/clone-home-dropbox.git`;
 - `cd clone-home-dropbox`;
 - `npm install`;
 - `npm start`.
