@@ -32,6 +32,10 @@
 
 Clone da interface da homepage do dropbox para fins acadêmicos.
 
+## :bookmark: Layout
+
+Você pode visualizar o layout clicando [aqui](https://roger-clone-home-dropbox.netlify.app/)
+
 ## :bookmark_tabs: Ideias de implementação
 
 - [ ] Refatoração.
