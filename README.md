@@ -42,7 +42,7 @@ Você pode visualizar o layout clicando [aqui](https://roger-clone-home-dropbox.
 
 ## :arrow_down: Instalação
 
-- `git clone https://github.com/Rogerluiz0/clone-home-dropbox.git`;
+- `git clone https://github.com/roger3g/clone-home-dropbox.git`;
 - `cd clone-home-dropbox`;
 - `npm install`;
 - `npm start`.
